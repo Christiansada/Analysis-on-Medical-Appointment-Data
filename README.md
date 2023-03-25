@@ -35,10 +35,10 @@ To answer this question, the dataset was grouped by gender, and the no-show rate
 ## Data Wrangling
 The data wrangling process involved cleaning and tidying the dataset to prepare it for analysis. This included converting some datatypes to the appropriate format, removing outliers and duplicates, and unifying the column naming convention.
 
-##Exploratory Data Analysis
+## Exploratory Data Analysis
 The exploratory data analysis involved answering the research questions by visualizing and summarizing the data. This was done using various graphs and tables.
 
-##Conclusion
+## Conclusion
 In conclusion, the analysis of the dataset of appointment records for public hospitals in Brazil revealed some interesting findings:
 
 There was no significant difference in the no-show rate for patients of different age groups.
