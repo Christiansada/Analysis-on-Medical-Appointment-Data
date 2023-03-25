@@ -41,12 +41,12 @@ The exploratory data analysis involved answering the research questions by visua
 ## Conclusion
 In conclusion, the analysis of the dataset of appointment records for public hospitals in Brazil revealed some interesting findings:
 
-There was no significant difference in the no-show rate for patients of different age groups.
-Patients were more likely to show up for appointments that were scheduled on weekdays than on weekends.
-Patients with a scholarship were slightly more likely to show up for appointments than those without.
-Patients with diabetes were slightly more likely to show up for appointments than those without.
-There was a slightly higher no-show rate for male patients than for female patients.
-These findings provide useful insights into the factors that influence patient attendance for appointments in Brazil. It is recommended that public hospitals in Brazil schedule more appointments during weekdays than on weekends to encourage more patients to attend their appointments. Additionally, hospitals may want to consider offering more scholarships and targeted outreach programs to encourage patients with diabetes and male patients to attend their appointments.
+- There was no significant difference in the no-show rate for patients of different age groups.
+- Patients were more likely to show up for appointments that were scheduled on weekdays than on weekends.
+- Patients with a scholarship were slightly more likely to show up for appointments than those without.
+- Patients with diabetes were slightly more likely to show up for appointments than those without.
+- There was a slightly higher no-show rate for male patients than for female patients.
+- These findings provide useful insights into the factors that influence patient attendance for appointments in Brazil. It is recommended that public hospitals in Brazil schedule more appointments during weekdays than on weekends to encourage more patients to attend their appointments. Additionally, hospitals may want to consider offering more scholarships and targeted outreach programs to encourage patients with diabetes and male patients to attend their appointments.
 
 
 
